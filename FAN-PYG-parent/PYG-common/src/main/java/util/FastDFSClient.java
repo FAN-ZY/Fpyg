@@ -49,7 +49,7 @@ public class FastDFSClient {
 	}
 	
 	/**
-	 * 上传文件方法
+	 * 上传文件方法123123
 	 * <p>Title: uploadFile</p>
 	 * <p>Description: </p>
 	 * @param fileContent 文件的内容，字节数组
